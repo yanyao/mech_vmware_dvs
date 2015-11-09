@@ -1,0 +1,3 @@
+[neutron.ml2.mechanism_drivers]
+vmware_dvs = mech_vmware_dvs.driver:VMwareDVSMechanismDriver
+
